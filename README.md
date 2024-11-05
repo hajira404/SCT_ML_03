@@ -10,11 +10,20 @@ This project is designed to classify images of dogs and cats using a deep learni
 - `Classifier.py`: Main application code for making predictions.
 - ![classification_report.png: A report plot showing model performance.](classification_report.png)
 
+
+
+
   
 - ![prediction_plot.png: A plot showing predictions made by the model.](prediction_plot.png)
 
+
+
+
   
 - ![`sample_prediction.png`](sample_prediction.png)
+
+
+
 
 ## Requirements
 
