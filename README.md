@@ -14,18 +14,23 @@ Here are some sample results from the model:
 
 ### Model Performance Report
 ![Model Performance Report](classification_report.png)
+
+
 *A report plot showing model performance.*
 
 ---
 
 ### Prediction Results
 ![Prediction Results](prediction_plot.png)
+
+
 *A plot showing predictions made by the model.*
 
 ---
 
 ### Sample Prediction
-![Sample Prediction](sample_prediction.png)
+![Sample Prediction](Sample_prediction.png)
+
 *A sample image used for prediction.*
 
 
