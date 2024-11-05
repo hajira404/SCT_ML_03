@@ -8,19 +8,26 @@ This project is designed to classify images of dogs and cats using a deep learni
 
 - `cat_dog_classifier_pipeline.pkl`: Contains the trained model file.
 - `Classifier.py`: Main application code for making predictions.
-- ![classification_report.png: A report plot showing model performance.](classification_report.png)
+# Results
 
+Here are some sample results from the model:
 
+### Model Performance Report
+![Model Performance Report](classification_report.png)
+*A report plot showing model performance.*
 
+---
 
-  
-- ![prediction_plot.png: A plot showing predictions made by the model.](prediction_plot.png)
+### Prediction Results
+![Prediction Results](prediction_plot.png)
+*A plot showing predictions made by the model.*
 
+---
 
+### Sample Prediction
+![Sample Prediction](sample_prediction.png)
+*A sample image used for prediction.*
 
-
-  
-- ![`sample_prediction.png`](sample_prediction.png)
 
 
 
