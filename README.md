@@ -29,7 +29,7 @@ Here are some sample results from the model:
 ---
 
 ### Sample Prediction
-![Sample Prediction](Sample_prediction.png)
+![Sample Prediction](sample_prediction.png)
 
 *A sample image used for prediction.*
 
